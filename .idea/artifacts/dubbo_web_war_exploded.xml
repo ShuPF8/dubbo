@@ -20,8 +20,7 @@
           <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
           <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.42" />
-          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.4" />
-          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.1" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.9" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.7.RELEASE" />
           <element id="archive" name="dubbo-model-1.0-SNAPSHOT.jar">
@@ -34,6 +33,10 @@
           <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.2" />
           <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.4" />
           <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:20.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.0.1" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
           <element id="archive" name="dubbo-remote-1.0-SNAPSHOT.jar">
             <element id="module-output" name="dubbo-remote" />
           </element>
@@ -61,6 +64,13 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.7.RELEASE" />
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.17" />
           <element id="library" level="project" name="Maven: org.javassist:javassist:3.19.0-GA" />
+          <element id="library" level="project" name="Maven: com.baomidou:mybatis-plus:2.1-gamma" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.1" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.4" />
+          <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:1.0" />
+          <element id="library" level="project" name="Maven: org.apache.velocity:velocity:1.7" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.4" />
         </element>
       </element>
       <element id="directory" name="META-INF">
